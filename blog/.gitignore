@@ -1,0 +1,5 @@
+*
+!kaisa-tutorial
+!kaisa-tutorial/**/*
+!.gitignore
+!authors.json
